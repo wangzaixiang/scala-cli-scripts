@@ -1,6 +1,7 @@
 // using scala 2.13
 // using lib com.lihaoyi::mainargs:0.2.2
 // using lib com.lihaoyi::os-lib:0.8.0
+// using lib org.scalameta::svm-subs:20.2.0
 // using lib org.ow2.asm:asm:9.2
 
 import mainargs.{ParserForMethods, main}

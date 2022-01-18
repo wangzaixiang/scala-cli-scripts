@@ -16,5 +16,10 @@ lazy val root = (project in file("."))
       "mysql" % "mysql-connector-java" % "8.0.27",
       "com.github.wangzaixiang" %% "scala-sql" % "2.0.7",
       "org.ow2.asm" % "asm" % "9.2",
+
+      "com.lihaoyi" %% "requests" % "0.7.0",
+      "com.lihaoyi" %% "upickle" % "1.4.3",
+      "org.jxls" % "jxls" % "2.10.0",
+      "org.jxls" % "jxls-poi" % "2.10.0",
     )
   )
